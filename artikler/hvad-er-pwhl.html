@@ -4,99 +4,151 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Hvad er PWHL? | HerGame</title>
-
 <style>
-body {
-  max-width: 900px;
-  margin: auto;
-  padding: 20px;
-  font-family: Arial, sans-serif;
-  background-color: #fffdf3;
-  color: #000;
-  line-height: 1.7;
+* {
+  box-sizing: border-box;
 }
 
-h1 {
-  margin-top: 20px;
+body {
+  margin: 0;
+  background-color: #F4EEE2;
+  font-family: Arial, sans-serif;
+  color: #111;
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.logo {
+  max-width: 180px;
+}
+
+nav {
+  text-align: center;
+  padding: 15px 0;
+  border-top: 1px solid #d8d2c8;
+  border-bottom: 1px solid #d8d2c8;
+  margin-bottom: 40px;
+}
+
+nav a {
+  color: #111;
+  text-decoration: none;
+  margin: 0 12px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.article {
+  max-width: 850px;
+  margin: auto;
+  background: #faf8f2;
+  padding: 40px;
+  border-radius: 12px;
+  border: 1px solid #ddd7cc;
+  line-height: 1.8;
+}
+
+.article h1 {
+  margin-top: 0;
+  font-size: 2.5rem;
 }
 
 .article-meta {
   color: #666;
   margin-bottom: 30px;
+  font-size: 0.95rem;
 }
 
-a {
-  color: #000;
+.article h2 {
+  margin-top: 35px;
 }
 
-.back-link {
-  margin-bottom: 20px;
-}
-
-.logo {
+footer {
   text-align: center;
-  margin-bottom: 20px;
+  margin-top: 60px;
+  padding-bottom: 40px;
 }
 
-.logo img {
-  max-width: 180px;
+footer a {
+  color: #111;
+  text-decoration: none;
+  font-weight: bold;
 }
 
-.article {
-  background: white;
-  padding: 25px;
-  border-radius: 10px;
+@media (max-width: 768px) {
+
+  nav a {
+    display: inline-block;
+    margin: 8px;
+  }
+
+  .article {
+    padding: 25px;
+  }
+
+  .article h1 {
+    font-size: 2rem;
+  }
+
 }
 </style>
 </head>
-
 <body>
-
-<div class="back-link">
-  <a href="../index.html">← Tilbage til forsiden</a>
-</div>
-
-<div class="logo">
-  <img src="../hergame-logo2.png" alt="HerGame logo">
-</div>
-
+<div class="container">
+<header>
+  <img src="../hergame-logo2.png" alt="HerGame logo" class="logo">
+</header>
+<nav>
+<a href="../index.html">🏠 Forside</a>
+<a href="../ishockey.html">🏒 Ishockey</a>
+<a href="#">⭐ Spotlight</a>
+<a href="#">🌍 Discover</a>
+<a href="../om.html">ℹ️ Om HerGame</a>
+</nav>
 <div class="article">
-
 <h1>Hvad er PWHL?</h1>
-
 <div class="article-meta">
-  HerGame • Ishockey
+HerGame • Ishockey
 </div>
-
 <p>
 PWHL står for Professional Women's Hockey League og er den største professionelle kvindeishockeyliga i verden.
 </p>
-
 <p>
 Ligaen blev lanceret i 2024 og samler nogle af verdens bedste spillere fra Nordamerika og Europa.
 </p>
-
 <p>
 Målet med ligaen er at skabe en bæredygtig professionel platform for kvindeishockey, hvor spillerne kan konkurrere på højeste niveau.
 </p>
-
 <h2>Hvorfor er PWHL vigtig?</h2>
-
 <p>
 PWHL har løftet synligheden af kvindeishockey markant gennem professionelle rammer, højere lønninger og større medieeksponering.
 </p>
-
 <p>
 For mange unge spillere repræsenterer ligaen nu en reel professionel karrierevej.
 </p>
-
 <h2>HerGames perspektiv</h2>
-
 <p>
 Hos HerGame mener vi, at PWHL er noget af det mest spændende, der er sket for kvindeishockey i mange år. Derfor vil ligaen være et centralt fokusområde på siden.
 </p>
-
 </div>
-
+<footer>
+<h2>HER PASSION. HER POWER. HER GAME.</h2>
+<p>
+<a href="mailto:info@hergame.dk">info@hergame.dk</a>
+</p>
+</footer>
+</div>
 </body>
 </html>
