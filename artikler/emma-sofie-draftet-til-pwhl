@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Emma-Sofie Nordström draftet til PWHL | HerGame</title>
+<style>
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-color: #F4EEE2;
+  font-family: Arial, sans-serif;
+  color: #111;
+}
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 20px;
+}
+header {
+  text-align: center;
+  padding: 20px 0;
+}
+nav {
+  text-align: center;
+  padding: 15px 0;
+  border-top: 1px solid #d8d2c8;
+  border-bottom: 1px solid #d8d2c8;
+}
+nav a {
+  color: #111;
+  text-decoration: none;
+  margin: 0 12px;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+.article {
+  max-width: 850px;
+  margin: 40px auto;
+  background: #faf8f2;
+  padding: 40px;
+  border-radius: 12px;
+  border: 1px solid #ddd7cc;
+  line-height: 1.8;
+}
+.article h1 {
+  margin-top: 0;
+  font-size: 2.4rem;
+}
+.article-meta {
+  color: #666;
+  margin-bottom: 30px;
+}
+.article h2 {
+  margin-top: 35px;
+}
+.read-more {
+  margin-top: 50px;
+  padding-top: 20px;
+  border-top: 1px solid #ddd7cc;
+}
+.read-more a {
+  display: block;
+  margin: 10px 0;
+  color: #111;
+  text-decoration: none;
+  font-weight: bold;
+}
+footer {
+  text-align: center;
+  margin-top: 70px;
+  padding-bottom: 40px;
+}
+footer a {
+  color: #111;
+  text-decoration: none;
+  font-weight: bold;
+}
+@media (max-width: 768px) {
+  nav a {
+    display: inline-block;
+    margin: 8px;
+  }
+  .article {
+    padding: 25px;
+  }
+  .article h1 {
+    font-size: 2rem;
+  }
+}
+</style>
+</head>
+<body>
+<div class="container">
+<header>
+<a href="../index.html">
+<img src="../hergame-logo2.png" alt="HER GAME logo" style="max-width:180px;">
+</a>
+</header>
+<nav>
+<a href="../ishockey.html">🏒 Ishockey</a>
+<a href="../spotlight.html">⭐ Spotlight</a>
+<a href="../discover.html">🌍 Discover</a>
+</nav>
+<div class="article">
+<h1>Emma-Sofie Nordström draftet til PWHL – dansk målmand skriver historie</h1>
+<div class="article-meta">
+HerGame • Ishockey • PWHL Draft 2026
+</div>
+<p>
+Dansk kvindeishockey har fået endnu en milepæl.
+</p>
+<p>
+Natten til fredag blev Emma-Sofie Nordström valgt af PWHL Hamilton som nummer 54 i 5. runde af PWHL Draft 2026. Dermed tager den danske landsholdsmålmand endnu et stort skridt mod verdens stærkeste professionelle kvindeishockeyliga.
+</p>
+<h2>En vigtig anerkendelse</h2>
+<p>
+Nordström har gennem flere år været blandt de mest spændende danske profiler i international kvindeishockey.
+</p>
+<p>
+Efter ungdomsårene i Herning fortsatte udviklingen i Sverige, før turen gik til NCAA-hockey hos St. Lawrence University i USA.
+</p>
+<p>
+Her har hun udviklet sig til en stærk og stabil målmand og samtidig været en vigtig del af det danske landshold.
+</p>
+<h2>PWHL's voksende betydning</h2>
+<p>
+Professional Women's Hockey League (PWHL) er på få år blevet verdens førende professionelle liga for kvindeishockey.
+</p>
+<p>
+Draften samler hvert år nogle af de største talenter fra NCAA, Europa og de internationale landshold.
+</p>
+<p>
+At blive valgt i draften er derfor en anerkendelse af både spillerens talent og udvikling.
+</p>
+<h2>Et stort øjeblik for dansk kvindeishockey</h2>
+<p>
+For dansk kvindeishockey er draftvalget endnu et bevis på, at danske spillere kan konkurrere med de bedste udviklingsmiljøer i verden.
+</p>
+<p>
+Samtidig giver det danske ishockeyfans endnu en spiller at følge tæt i jagten på en professionel karriere i Nordamerika.
+</p>
+<p>
+Emma-Sofie Nordströms rejse fra Herning til NCAA og nu videre mod PWHL er en historie, der viser, hvor langt talent, hårdt arbejde og ambitioner kan føre en dansk spiller.
+</p>
+<h2>HerGames perspektiv</h2>
+<p>
+Hos HerGame har vi fulgt Emma-Sofie Nordström tæt gennem hendes udvikling i NCAA og på det danske landshold.
+</p>
+<p>
+Draftvalget er ikke kun en personlig succes for Emma-Sofie – det er også et vigtigt øjeblik for dansk kvindeishockey.
+</p>
+<p>
+Vi glæder os til at følge det næste kapitel.
+</p>
+<div class="read-more">
+
+<h3>Læs også</h3>
+
+<a href="emma-sofie-nordstrom.html">⭐ Emma-Sofie Nordström: Fra Herning til NCAA</a>
+
+<a href="sofie-skott-dahl.html">🏒 Sofie Skott Dahl: Dansk NCAA-profil</a>
+
+<a href="danskere-i-ncaa.html">🏒 Danskere i NCAA: Den komplette guide</a>
+
+<a href="pwhl-draft-guide-2026.html">🏒 Den Store PWHL Draft Guide 2026</a>
+
+</div>
+</div>
+<footer>
+<h2>HER PASSION. HER POWER. HER GAME.</h2>
+<p>
+<a href="../om.html">Om HerGame</a>
+</p>
+<p>
+<a href="mailto:info@hergame.dk">info@hergame.dk</a>
+</p>
+</footer>
+</div>
+</body>
+</html>
