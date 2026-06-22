@@ -24,16 +24,27 @@ header {
   padding: 20px 0;
 }
 nav {
-  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
   padding: 15px 0;
   border-top: 1px solid #d8d2c8;
   border-bottom: 1px solid #d8d2c8;
 }
+
 nav a {
   color: #111;
   text-decoration: none;
-  margin: 0 12px;
   font-weight: bold;
+  font-size: 0.95rem;
+}
+@media (max-width: 768px) {
+  nav {
+    gap: 10px;
+  }
+  nav a {
+    font-size: 0.9rem;
+  }
 }
 nav a:hover {
   text-decoration: underline;
@@ -117,6 +128,9 @@ Dansk kvindeishockey har fået endnu en milepæl.
 <p>
 Natten til fredag blev Emma-Sofie Nordström valgt af PWHL Hamilton som nummer 54 i 5. runde af PWHL Draft 2026. Dermed tager den danske landsholdsmålmand endnu et stort skridt mod verdens stærkeste professionelle kvindeishockeyliga.
 </p>
+<img src="../Billeder/Emma-Sofie-draft-profil.jpg"
+     alt="Emma-Sofie Nordström"
+     style="width:100%; border-radius:12px;">
 <h2>En vigtig anerkendelse</h2>
 <p>
 Nordström har gennem flere år været blandt de mest spændende danske profiler i international kvindeishockey.
